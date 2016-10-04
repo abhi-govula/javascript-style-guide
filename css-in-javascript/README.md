@@ -1,4 +1,4 @@
-# Airbnb CSS-in-JavaScript Style Guide
+#CSS-in-JavaScript Style Guide
 
 *A mostly reasonable approach to CSS-in-JavaScript
 
@@ -427,7 +427,3 @@
       },
     });
     ```
-
----
-
-CSS puns adapted from [Saijo George](http://saijogeorge.com/css-puns/).
